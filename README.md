@@ -27,19 +27,19 @@ Sou Desenvolvedor Full Stack com foco em Python (Django, Django REST Framework e
 
 <table>
   <tbody>
-    <tr border="none">
+    <tr>
       <td width="50%" align="center">
         <img
-          align="center"
-          src="https://github-stats-extended.vercel.app/api?username=eudesgomesss&theme=github_dark&show_icons=true&hide_border=false"
+          src="https://github-stats-extended.vercel.app/api?username=eudesgomesss&theme=dark_github&show_icons=true"
           alt="GitHub Statistics"
+          width="100%"
         />
       </td>
       <td width="50%" align="center">
         <img
-          align="center"
-          src="https://github-stats-extended.vercel.app/api/top-langs/?username=eudesgomesss&theme=github_dark&layout=compact&langs_count=10&card_width=350&size_weight=0.5&count_weight=0.5"
+          src="https://github-stats-extended.vercel.app/api/top-langs?username=eudesgomesss&langs_count=4&theme=dark_github"
           alt="Most Used Languages"
+          width="100%"
         />
       </td>
     </tr>
