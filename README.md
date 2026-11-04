@@ -25,26 +25,29 @@ Sou Desenvolvedor Full Stack com foco em Python (Django, Django REST Framework e
 
 ## GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-five-roan.vercel.app?user=eudesgomesss&amp;theme=dark"
-    alt="GitHub Streak"
-    width="380"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=eudesgomesss&amp;langs_count=8&amp;theme=dark_github"
-    alt="Most Used Languages"
-    width="320"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=eudesgomesss&amp;theme=dark_github&amp;show_icons=true"
-    alt="GitHub Statistics"
-    width="340"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img
+        src="https://github-readme-streak-stats-five-roan.vercel.app?user=eudesgomesss&amp;theme=dark"
+        alt="GitHub Streak"
+        width="340"
+      />
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=eudesgomesss&amp;theme=dark_github&amp;show_icons=true"
+        alt="GitHub Statistics"
+        width="340"
+      />
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=eudesgomesss&amp;langs_count=8&amp;theme=dark_github"
+        alt="Most Used Languages"
+        width="320"
+      />
+    </td>
+  </tr>
+</table>
 
 ## Connect with me
 
