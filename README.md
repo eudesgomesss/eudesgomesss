@@ -25,14 +25,32 @@ Sou Desenvolvedor Full Stack com foco em Python (Django, Django REST Framework e
 
 ## GitHub Stats
 
+<table>
+  <tbody>
+    <tr border="none">
+      <td width="50%" align="center">
+        <img
+          align="center"
+          src="https://github-stats-extended.vercel.app/api?username=eudesgomesss&theme=github_dark&show_icons=true&hide_border=false"
+          alt="GitHub Statistics"
+        />
+      </td>
+      <td width="50%" align="center">
+        <img
+          align="center"
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=eudesgomesss&theme=github_dark&layout=compact&langs_count=10&card_width=350&size_weight=0.5&count_weight=0.5"
+          alt="Most Used Languages"
+        />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <p align="center">
-  <a href="https://githubcard.com/eudesgomesss/card">
-    <img
-      src="https://githubcard.com/eudesgomesss.svg"
-      alt="Eudes Gomes - GitHub Statistics"
-      width="100%"
-    />
-  </a>
+  <img
+    src="https://github-readme-streak-stats-five-roan.vercel.app?user=eudesgomesss&theme=dark"
+    alt="GitHub Streak"
+  />
 </p>
 
 ## Connect with me
